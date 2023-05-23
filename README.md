@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **java**
 
-- 📫 How to reach me **discord: null#2137**
+- 📫 How to reach me **discord: null#2215**
 
 </p>
 
