@@ -10,16 +10,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: discord - dn2f
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm null</h1>
-<h3 align="center">A racist, nazi 14yo "developer".</h3>
+<h3 align="center">A racist 14yo "developer".</h3>
 
 - 🌱 I’m currently learning **java**
 
-- 📫 How to reach me **discord: null#2215**
+- 📫 How to reach me **discord: dn2f**
 
 </p>
 
