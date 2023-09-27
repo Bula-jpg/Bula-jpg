@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm null</h1>
-<h3 align="center">A racist 14yo "developer".</h3>
+<h3 align="center">A 14yo "developer".</h3>
 
 - 🌱 I’m currently learning **java**
 
