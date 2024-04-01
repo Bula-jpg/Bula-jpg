@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **java**
 
-- 📫 How to reach me **discord: dn2f**
+- 📫 How to reach me **discord: dn1f**
 
 </p>
 
