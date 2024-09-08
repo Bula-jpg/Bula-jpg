@@ -1,23 +1,3 @@
-<div align="center">
-  <img height="150" src="https://gnomus.lol/avatar.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@bulafr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bula-jpg.Bula-jpg&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
